@@ -1,2 +1,4 @@
 # Nepe
-March 23 2024. Updated on", Sys.Date())`'
+March 23 2024
+
+Aspen Casted Divination with Poor Rustle and saw a battle where Nepe and Balazar almost Die. 
