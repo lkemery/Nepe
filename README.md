@@ -29,3 +29,6 @@ We take off to Silver Moon to see if we can talk/commune with Selune.
 
 Aspen Lands on a path in trees similar to the ones in the Book Lore of Larue.  
 
+Balazar in edge of cave above the forest. 
+
+Place where we Long rested in the Book Lore of Larue. 
