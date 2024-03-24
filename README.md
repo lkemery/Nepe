@@ -31,4 +31,4 @@ Aspen Lands on a path in trees similar to the ones in the Book Lore of Larue.
 
 Balazar in edge of cave above the forest. 
 
-Place where we Long rested in the Book Lore of Larue. 
+I wound up in the place where we Long rested in the Book Lore of Larue. 
