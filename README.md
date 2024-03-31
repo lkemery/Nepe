@@ -44,5 +44,11 @@ Aspen and Nepe Meet up and find Varys and Sarlel
 Hen egg size garnet, amethyst, aquamarine, pink tourmaline, ...., ....
 
 
+Shrimpkin - row
+open 
+fold 
 
+Picking up crystal quarts 
+
+Small stack of uncut gems.  
 
