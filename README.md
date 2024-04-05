@@ -43,7 +43,7 @@ Aspen and Nepe Meet up and find Varys and Sarlel
 
 Hen egg size garnet, amethyst, aquamarine, pink tourmaline, ...., ....
 
-
+Boat Use: 
 Shrimpkin - row
 open 
 fold 
@@ -51,4 +51,41 @@ fold
 Picking up crystal quarts 
 
 Small stack of uncut gems.  
+
+Took a short Rest 
+# April 4 
+
+Attacked By ghasts 
+
+Malaar tells to leave as we land on the island
+We find 600 pea sized garnets. 
+
+We fight 
+
+Gargoyles 
+Dao 
+Behir: https://www.dndbeyond.com/monsters/16804-behir
+- Neep got swallowed and killed by the Behir
+- saved by balazar
+
+The bile from the Behir is good for polychrome potion.  We bottle two, great for changing your colors.  
+
+We find the Avatar of Selune.  
+
+We rest in the tiny hut with the Avatar. 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
