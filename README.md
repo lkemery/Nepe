@@ -74,6 +74,43 @@ We find the Avatar of Selune.
 
 We rest in the tiny hut with the Avatar. 
   
+# April 13 
+So Aspen went ahead with the Avatar and scouted before they left to meet up with Selune
+
+Found a duck boat 
+- "waddle" is word for forward
+- "quack" word for stop
+- The rudder allow for stearing
+
+I pickup up Balazar and we go to the next room where Nepe messes with a Cloaker. 
+https://www.dndbeyond.com/monsters/16826-cloaker
+
+Balazar got hit by the brown note.  Pooped his pants 
+Nepe and Balazar are frightened
+
+Take the duck boat to an area we couldn't explore before. 
+
+We find 4 baskalisks with a peice of the ax. Kill all 4. 
+
+https://www.dndbeyond.com/monsters/16801-basilisk
+
+Found the googles "Eyes of Minute Seeing".  
++advantange of investigation while examining 
+
+After killing the Trolls under one bed: 
+- greater healing potion
+- quiver of 20 silvered arrows
+- Gnome sized Wooden set of dentures with mother of perls. 
+
+Under the second bed: 
+- Sack of 120G 900s 
+- Found other peice of axe 
+
+Under third bed: 
+- 4 gems unknown
+
+8 bezerkers fought but 5 were enclosed in a bead of force.  (have 2 left)
+https://www.dndbeyond.com/magic-items/4583-bead-of-force
 
 
 
