@@ -1,8 +1,8 @@
 # Sister Garaele's Dinner Party
 
-Nepe Valenwood
-https://www.dndbeyond.com/characters/111073787
+**Nepe Valenwood**  https://www.dndbeyond.com/characters/111073787
 
+[TOC]
 
 ### March 23 2024  
 
@@ -93,7 +93,7 @@ Nepe and Balazar are frightened
 
 Take the duck boat to an area we couldn't explore before. 
 
-We find 4 baskalisks with a peice of the ax. Kill all 4. 
+We find 4 baskalisks with a peice of the axe. Kill all 4. 
 
 https://www.dndbeyond.com/monsters/16801-basilisk
 
@@ -133,6 +133,7 @@ We take a long rest.
 
 Varis teleports us back to Stone Hill Inn, but we travel back to Trancendor Mannor. 
 
+However we know there are two more slaads left.  A Blue and a Green Slaads are still on the Loose.  
 
 
 
