@@ -2,8 +2,8 @@
 
 **Nepe Valenwood**  https://www.dndbeyond.com/characters/111073787
 
-[Latest Updates](#eof)
-[Items Gathered](#items)
+- [Latest Updates](#eof)
+- [Items Gathered](#items)
 
 
 ### Items Gathered 
