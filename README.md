@@ -112,6 +112,9 @@ Under third bed:
 8 bezerkers fought but 5 were enclosed in a bead of force.  (have 2 left)
 https://www.dndbeyond.com/magic-items/4583-bead-of-force
 
+- 3 Pickaxes of Force ( +2 strength modifiers )
+
+
 
 
 
