@@ -1,7 +1,12 @@
-# Nepe
+# Sister Garaele's Dinner Party
+
+Nepe Valenwood
 https://www.dndbeyond.com/characters/111073787
 
-# March 23 2024
+## March 23 2024 {#live-examples}
+
+
+# March 23 2024  <a name="live-examples"></a>
 
 Aspen Casted Divination with Poor Rustle and saw a battle where Nepe and Balazar almost Die. 
 
@@ -119,6 +124,17 @@ https://www.dndbeyond.com/magic-items/4583-bead-of-force
 Aspen is back with Sarel who absorbs the unicorn and turns into Selune.  
 
 Varis explained to Selune what kind of trouble our party.   
+
+Balazar get his axed fixed.  
+
+Selune asks us to seal off the Underdark and put Varyis on the Throne.  
+
+Large Half Orc Berzerker wearing Armor and has a Long Lance.  His name is Urog DaBub.  
+
+We take a long rest.  
+
+Varis teleports us back to Stone Hill Inn, but we travel back to Trancendor Mannor. 
+
 
 
 
