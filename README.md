@@ -31,7 +31,7 @@ Balazar in edge of cave above the forest.
 
 I wound up in the place where we Long rested in the Book Lore of Larue. 
 
-# March 30
+### March 30
 All characters separated in Larue 
 Balazar in cave lost bag of holding, has Nepe's cloak and Aspens staff
 - find's Nepe's Lute
