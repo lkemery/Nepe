@@ -3,10 +3,8 @@
 Nepe Valenwood
 https://www.dndbeyond.com/characters/111073787
 
-## March 23 2024 {#live-examples}
 
-
-# March 23 2024  <a name="live-examples"></a>
+# March 23 2024  {#march-23}
 
 Aspen Casted Divination with Poor Rustle and saw a battle where Nepe and Balazar almost Die. 
 
