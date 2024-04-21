@@ -142,7 +142,13 @@ We take a long rest.
 
 Varis teleports us back to Stone Hill Inn, but we travel back to Trancendor Mannor. 
 
+We meet the Fighter Hafling Bruce who can turn into a Giant.  
+
 However we know there are two more slaads left.  A Blue and a Green Slaads are still on the Loose.  
+
+Falcons Hunting Lodge has a bunch of Orcs  
+
+We are teleported to Falcons hunting lodge to help. 
 
 
 <a id="eof"></a>
