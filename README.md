@@ -2,7 +2,12 @@
 
 **Nepe Valenwood**  https://www.dndbeyond.com/characters/111073787
 
-[end of file](#eof)
+[Latest Updates](#eof)
+[Items Gathered](#items)
+
+
+### Items Gathered 
+<a id="eof"></a>
 
 
 
@@ -139,6 +144,8 @@ However we know there are two more slaads left.  A Blue and a Green Slaads are s
 
 
 <a id="eof"></a>
+
+
 
 
 
