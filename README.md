@@ -140,7 +140,6 @@ However we know there are two more slaads left.  A Blue and a Green Slaads are s
 
 <a id="eof"></a>
 
-#EOF
 
 
 
