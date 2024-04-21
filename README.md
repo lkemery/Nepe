@@ -4,7 +4,7 @@ Nepe Valenwood
 https://www.dndbeyond.com/characters/111073787
 
 
-## March 23 2024  
+### March 23 2024  
 
 Aspen Casted Divination with Poor Rustle and saw a battle where Nepe and Balazar almost Die. 
 
@@ -56,7 +56,7 @@ Picking up crystal quarts
 Small stack of uncut gems.  
 
 Took a short Rest 
-# April 4 
+### April 4 
 
 Attacked By ghasts 
 
@@ -77,7 +77,7 @@ We find the Avatar of Selune.
 
 We rest in the tiny hut with the Avatar. 
   
-# April 13 
+### April 13 
 So Aspen went ahead with the Avatar and scouted before they left to meet up with Selune
 
 Found a duck boat 
@@ -117,7 +117,7 @@ https://www.dndbeyond.com/magic-items/4583-bead-of-force
 
 - 3 Pickaxes of Force ( +2 strength modifiers )
 
-# April 21 
+### April 21 
 
 Aspen is back with Sarel who absorbs the unicorn and turns into Selune.  
 
