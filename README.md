@@ -8,7 +8,9 @@
 
 ### Items Gathered 
 <a id="items"></a>
-- test
+- greater healing potion
+- quiver of 20 silvered arrows
+- Gnome sized Wooden set of dentures with mother of perls. 
 
 
 ### March 23 2024  
