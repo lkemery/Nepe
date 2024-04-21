@@ -114,6 +114,12 @@ https://www.dndbeyond.com/magic-items/4583-bead-of-force
 
 - 3 Pickaxes of Force ( +2 strength modifiers )
 
+# April 21 
+
+Aspen is back with Sarel who absorbs the unicorn and turns into Selune.  
+
+Varis explained to Selune what kind of trouble our party.   
+
 
 
 
