@@ -150,6 +150,13 @@ Falcons Hunting Lodge has a bunch of Orcs
 
 We are teleported to Falcons hunting lodge to help. 
 
+We killed abunch of orcs and found out that Lord Never hired these Orcs to be apart of his army.  
+
+Selune is trying trying to close the underdark with a Ent Tree
+
+### May 4 
+
+
 
 <a id="eof"></a>
 
