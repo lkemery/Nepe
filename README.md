@@ -4,7 +4,7 @@
 
 - [Latest Updates](#eof)
 - [Items Gathered](#items)
-
+- [Items Gathered] https://github.com/lkemery/Nepe/blob/main/items.md#items-gathered
 
 ### Items Gathered 
 <a id="items"></a>
