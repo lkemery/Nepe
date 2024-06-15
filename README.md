@@ -33,6 +33,8 @@ We find the Avatar of Selune.
 
 We rest in the tiny hut with the Avatar. 
 </details> 
+
+
 ### April 13 
 So Aspen went ahead with the Avatar and scouted before they left to meet up with Selune
 
