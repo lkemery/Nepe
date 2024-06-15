@@ -10,7 +10,7 @@
 ### March 23
 <details>
 <summary>Slaads in Thandolin</summary>
-```
+.``
 Aspen Casted Divination with Poor Rustle and saw a battle where Nepe and Balazar almost Die.
 Based on the vision we're going to appeal to Selune to help us with the upcoming battle.
 We see Slaad Tracks into Thandolin. Then they turn into regular tracks size of regular men into town.
