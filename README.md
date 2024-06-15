@@ -17,8 +17,8 @@ Based on the vision we're going to appeal to Selune to help us with the upcoming
 
 We see Slaad Tracks into Thandolin. Then they turn into regular tracks size of regular men into town.
 We check with Tolbin at the Stonhill in regarding the strangers. He mentions Harbon left and came back.
-He is a Slaad
-- !#f03c15 `#f03c15`
+A Slaad took over Harbon's form!
+
 Outisde in Harbon Westors shed, he returns to slaad form. Casted Fireball on the Slaad and destroy the slaad.
 
 Killed the Gray, Red and Death Slaad in Thandolin
