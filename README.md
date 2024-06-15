@@ -175,12 +175,31 @@ Selune is trying trying to close the underdark with a Ent Tree
 </details> 
 ### May 4 
 
-### <a href="11May.md">May 11</a>
+### May 11
+<details>
+<summary>Planting Trees</summary>
+```
+Varis Transports the party to Neverwinter Library (House of Knowledge).
+Party planted an Ent tree in the library grounds to seal off the underdark
+Party planted an Ent tree in the graveyard, fought skeletons and bone monsters
+Party planted an Ent tree in Chasm District, fought 3 assassins
+Party took a long rest at the Library.
 
-### <a href="18May.md">May 18</a> 
+```
+</details>
+
+### May 18 
+<details>
+<summary></summary>
+```
+Party planted an Ent tree in the back of the castle and was attacked by monsters
+Party planted an Ent tree in the front of the castle and was attacked by 9 knights and a dark paladin...party nearly died, Urag died.
+Lissett and Allessaria emerge from the castle as Varis and Selune enter castle grounds.
+Varis accidentally killed Lissett and Allessaria with a fireball.
+```
+</details>
 
 ### June 15 
-All is well.
 
 <a id="eof"></a>
 
