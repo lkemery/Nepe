@@ -187,14 +187,58 @@ Party took a long rest at the Library.
 <details>
 <summary></summary>
 
+```
 Party planted an Ent tree in the back of the castle and was attacked by monsters
-Party planted an Ent tree in the front of the castle and was attacked by 9 knights and a dark paladin...party nearly died, Urag died. 
+Party planted an Ent tree in the front of the castle 
+Attacked by 9 knights and a dark paladin...party nearly died, Urag died. 
 Aspen was turned into an Ape and flung Poo.. Nepe takes mental notes.. 
 
-Lissett and Allessaria emerge from the castle as Varis and Selune enter castle grounds.
+After killing the enemies, Lissett and Allessaria emerge from the 
+castle as Varis and Selune enter castle grounds.
 Varis accidentally killed Lissett and Allessaria with a fireball.
 
+```
 </details>
+
+## Interlude 
+
+Along a crowded street headed to the waterfront, two dock workers shoot the breeze.
+
+“Did you hear the throne changed hands again?”
+
+“Really?! I just got used to the new queen, or rather I got used to avoiding the new queen’s minions. Who’s the new ruler?”
+
+“Varis Galanodel. He used to work for the queen, I think”
+
+“Wait, wasn’t he in charge of the library for a while? I’m pretty sure that’s ‘the disorganized goober’ that Atlavast used to complain about on trivia nights. Something about a new card catalog, maybe?”
+
+“Yeah, that’s the same guy. Some adventurers overthrew the queen or something, I guess he was the next choice. Maybe he’ll be better, or at least less cruel than the last two. I also heard Varis’s queen is a goddess”
+
+“That good looking, huh?”
+
+“No, I mean, yeah, she’s gorgeous, but I was saying she’s literally a goddess. Goddess of a silver forest or maybe nature in general, I can’t remember”
+
+“Think the new guy will be any good?”
+
+“I mean, he can’t be worse. Seems like he’s on the right track. There’s a justice system now, so no more vengeful guards locking people away. Apparently, you have to prove someone did something wrong before execution, and get this, they even get a chance to defend themselves! He also has a plan for kid’s schools, if you can believe it. I guess instead of apprenticeships, kids will go to school for a bit. I don’t know, I feel like the workforce is going to miss the 6-12 year olds that made up the backbone of menial labor.”
+
+“Who is gonna pay for all of that? Taxes will be crushing”
+
+“That’s the thing, I think for now a lot of the process is being funded by the nobles. I think they’re paying more and nothing is changing for us. I think it's penance for the way they treated the chasm district under the queen. He was going to throw them out of the city and take over the trade houses if they didn’t agree. After word spread about how he fire-balled the queen and her priestess, they all buckled pretty quick”
+
+“Did you hear about the big party at the castle last week?”
+
+“No, what was it for?”
+
+“I heard it was in honor of the group of adventurers, probably the same ones that overthrew the queen”
+
+“Oh, right. The fiery freaks? The friendly feinds? The fainting fairies? Gosh, what was their name? They planted all the talking trees too, right?
+
+“Those are treants, they sealed off the underdark and reinforced the city, acting as eyes and ears for any imminent danger. And the adventurers are called The Friendly Fire. Varis named them protectors of the city, so they’re at least on our side and not just a bunch of money hungry mercenaries”
+
+“Their name could be better”
+
+“Regardless, I’m sure Varis will ask them to help keep the city safe, maybe even make improvements, like with the trees”
 
 <a id="eof"> ### June 15 </a>
 <details>
