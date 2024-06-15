@@ -187,12 +187,13 @@ Party took a long rest at the Library.
 <details>
 <summary></summary>
 
-```
 Party planted an Ent tree in the back of the castle and was attacked by monsters
-Party planted an Ent tree in the front of the castle and was attacked by 9 knights and a dark paladin...party nearly died, Urag died.
+Party planted an Ent tree in the front of the castle and was attacked by 9 knights and a dark paladin...party nearly died, Urag died. 
+Aspen was turned into an Ape and flung Poo.. Nepe takes mental notes.. 
+
 Lissett and Allessaria emerge from the castle as Varis and Selune enter castle grounds.
 Varis accidentally killed Lissett and Allessaria with a fireball.
-```
+
 </details>
 
 <a id="eof"> ### June 15 </a>
