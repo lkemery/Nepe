@@ -6,12 +6,6 @@
 - [Items Gathered](#items)
 - [Items Gathered](https://github.com/lkemery/Nepe/blob/main/items.md#items-gathered)
 
-### Items Gathered 
-<a id="items"></a>
-- greater healing potion
-- quiver of 20 silvered arrows
-- Gnome sized Wooden set of dentures with mother of perls. 
-
 
 ### March 23 2024  
 
