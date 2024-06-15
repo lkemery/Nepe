@@ -9,7 +9,8 @@
 
 ### March 23
 <details>
-<summary>Slaads in Thandolin</summary>
+<summary> Slaads in Thandolin </summary>
+
 ```
 Aspen Casted Divination with Poor Rustle and saw a battle where Nepe and Balazar almost Die.
 Based on the vision we're going to appeal to Selune to help us with the upcoming battle.
@@ -25,6 +26,7 @@ Aspen Lands on a path in trees similar to the ones in the Book Lore of Larue.
 Balazar in edge of cave above the forest.
 I wound up in the place where we Long rested in the Book Lore of Larue.
 ```
+
 </details>
 
 
