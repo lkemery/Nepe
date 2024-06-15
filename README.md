@@ -201,8 +201,9 @@ Varis accidentally killed Lissett and Allessaria with a fireball.
 </details>
 
 ## Interlude 
+
 <details>
-<summary></summary>
+<summary>Friendly Fire</summary>
 
 Along a crowded street headed to the waterfront, two dock workers shoot the breeze.
 
