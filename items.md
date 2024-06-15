@@ -1,7 +1,8 @@
 # Items Gathered
 
-## May 18 
+### May 18 
 
+'''
 Vial of purple worm poison
 vial of assasin blood
 3 short sword
@@ -11,3 +12,4 @@ Plate Armor w/ Necrotic Magic
 Plat Armor x9
 9 great swords
 3 heavy crossbows
+'''
