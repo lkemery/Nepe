@@ -10,7 +10,8 @@
 ### <a href="23March.md">March 23</a> 
 ### <a href="notes/30March.md">March 30</a> 
 
-### April 4 
+<details>
+<summary> ### April 4 </summary>
 
 Attacked By ghasts 
 
@@ -30,7 +31,7 @@ The bile from the Behir is good for polychrome potion.  We bottle two, great for
 We find the Avatar of Selune.  
 
 We rest in the tiny hut with the Avatar. 
-  
+</details> 
 ### April 13 
 So Aspen went ahead with the Avatar and scouted before they left to meet up with Selune
 
