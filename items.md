@@ -1,6 +1,13 @@
 # Items Gathered
 
+<details> 
+<summary> Party Money </summary>
+
+</details> 
+
+
 ### Previous Items
+
 
 ```
 Thieves tools (use with enhanced ability for advantage) 
@@ -21,7 +28,7 @@ Strange metal device with cups
 
 ### May 18 
 
-'''
+```
 Vial of purple worm poison
 vial of assasin blood
 3 short sword
@@ -31,4 +38,5 @@ Plate Armor w/ Necrotic Magic
 Plat Armor x9
 9 great swords
 3 heavy crossbows
-'''
+```
+
