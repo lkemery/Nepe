@@ -36,6 +36,8 @@ We rest in the tiny hut with the Avatar.
 
 
 ### April 13 
+<details> 
+<summary>Selune Part 2</summary>
 So Aspen went ahead with the Avatar and scouted before they left to meet up with Selune
 
 Found a duck boat 
@@ -75,7 +77,10 @@ https://www.dndbeyond.com/magic-items/4583-bead-of-force
 
 - 3 Pickaxes of Force ( +2 strength modifiers )
 
+</details> 
+<details> 
 ### April 21 
+<summary>Introducing Urog</summary>
 
 Aspen is back with Sarel who absorbs the unicorn and turns into Selune.  
 
@@ -103,6 +108,7 @@ We killed abunch of orcs and found out that Lord Never hired these Orcs to be ap
 
 Selune is trying trying to close the underdark with a Ent Tree
 
+</details> 
 ### May 4 
 
 ### <a href="11May.md">May 11</a>
