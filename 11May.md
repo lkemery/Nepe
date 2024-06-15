@@ -1,4 +1,5 @@
-11 May
+# 11 May
+
 Varis Transports the party to Neverwinter Library (House of Knowledge).
 Party planted an Ent tree in the library grounds to seal off the underdark
 Party planted an Ent tree in the graveyard, fought skeletons and bone monsters
