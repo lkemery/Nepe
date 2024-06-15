@@ -39,31 +39,27 @@ All characters separated in Larue.
 
 Balazar in cave lost bag of holding, has Nepe's cloak and Aspens staff
 
-find's Nepe's Lute
-Edge of the stream, with Aspens cloak and and missing my bracelet. I find the bag of holding. I start walking back towards the Great Elm tree.
-
+Found's Nepe's Lute
+Edge of the stream, with Aspens cloak and and missing my bracelet. 
+Nepe find the bag of holding. I start walking back towards the Great Elm tree.
 Aspen missing bracelet and cloak, she finds balazars weapons.
-
 Killed a Berzerker and add great axe added to bag of holding
-
 Aspen and Nepe Meet up and find Varys and Sarlel
-
 Hen egg size garnet, amethyst, aquamarine, pink tourmaline, ...., ....
-
-Boat Use: Shrimpkin - row open fold
-
+- Boat Use: Shrimpkin - row open fold
 Picking up crystal quarts
-
 Small stack of uncut gems.
 
 Took a short Rest
 ```
+
 </details>
 
 
 ### April 4
 <details>
 <summary> Looking for Selune </summary>
+
 ```
 Attacked By ghasts 
 
@@ -79,16 +75,17 @@ Behir: https://www.dndbeyond.com/monsters/16804-behir
 - saved by balazar
 
 The bile from the Behir is good for polychrome potion.  We bottle two, great for changing your colors.  
-
 We find the Avatar of Selune.  
-
 We rest in the tiny hut with the Avatar. 
-</details> 
+```
 
+</details> 
 
 ### April 13 
 <details> 
 <summary>Selune Part 2</summary>
+
+```
 So Aspen went ahead with the Avatar and scouted before they left to meet up with Selune
 
 Found a duck boat 
@@ -127,8 +124,8 @@ Under third bed:
 https://www.dndbeyond.com/magic-items/4583-bead-of-force
 
 - 3 Pickaxes of Force ( +2 strength modifiers )
-
 ```
+
 </details> 
 
 ### April 21 
@@ -163,25 +160,33 @@ We killed abunch of orcs and found out that Lord Never hired these Orcs to be ap
 Selune is trying trying to close the underdark with a Ent Tree
 
 ```
+
 </details> 
+
+
 ### May 4 
+<details>
+<summary></summary>
+</details> 
 
 ### May 11
 <details>
 <summary>Planting Trees</summary>
+
 ```
 Varis Transports the party to Neverwinter Library (House of Knowledge).
 Party planted an Ent tree in the library grounds to seal off the underdark
 Party planted an Ent tree in the graveyard, fought skeletons and bone monsters
 Party planted an Ent tree in Chasm District, fought 3 assassins
 Party took a long rest at the Library.
-
 ```
+
 </details>
 
 ### May 18 
 <details>
 <summary></summary>
+
 ```
 Party planted an Ent tree in the back of the castle and was attacked by monsters
 Party planted an Ent tree in the front of the castle and was attacked by 9 knights and a dark paladin...party nearly died, Urag died.
@@ -190,12 +195,14 @@ Varis accidentally killed Lissett and Allessaria with a fireball.
 ```
 </details>
 
-### June 15 
+<a id="eof"> ### June 15 </a>
+<details>
+<summary></summary>
 
-<a id="eof"></a>
+```
 
-
-
+```
+</details>
 
 
 
