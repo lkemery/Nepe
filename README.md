@@ -3,7 +3,6 @@
 **Nepe Valenwood**  https://www.dndbeyond.com/characters/111073787
 
 - [Latest Updates](#eof)
-- [Items Gathered](#items)
 - [Items Gathered](https://github.com/lkemery/Nepe/blob/main/items.md#items-gathered)
 
 
