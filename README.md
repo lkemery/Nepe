@@ -4,6 +4,7 @@
 
 - [Latest Updates](#eof)
 - [Items Gathered](https://github.com/lkemery/Nepe/blob/main/items.md#items-gathered)
+- [Places](places.md)
 
 
 ### March 23 2024  
