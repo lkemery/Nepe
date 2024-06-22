@@ -250,7 +250,19 @@ Along a crowded street headed to the waterfront, two dock workers shoot the bree
 <summary></summary>
 
 ```
-
+-The party visited the new concert hall, played some game of chance and Nepe played music for the concert hall where she played 3 songs and won wide acclaim for her "Brown Note" song.
+-At the concert hall we met a high elf sorcerer named Olinath, who agreed to accompany us on our next adventure.  
+-Aspen scouted the Pirate base, and determined that there is no easy way to get into the floating island, but determined that the party could take a boat to nearby the island then fly up to it.  It does not appear to have a guard stationed.  There are a few boats moored at the base of the chain, but no discernable way to get up to the floating island.  
+-Varis transported the party to Phandalin, where we determined that our home base is in good shape, and the south woods are being cut down to expand the farmland (Apples & Mushrooms).  Aspen casted plant growth on the mushroom farm, causing some distress to the gardeners trying to keep up. Received 1000 gold from the company profits, 2 potions of flying, and sent a message to Adabra for potions of speed, heroism and invisibility.  Transported samples of wine back to Varis to build the business.  
+-Visited the House of Knowledge, helped Atlavast find some books to support the school.  Also found a book, Zepherian Tome, that Bruce was able to decipher with his knowledge of the giant language.  The Book has a trapped Genie named Gaze Azam that wants to be set free.  The genie was helping the wizard, Zikron build a flying castle when he trapped him in the book.  The genie said the only way to be set free was if the wizard dies, or intentionally sets the genie free.  If freed, the genie agreed to help the party finish the floating castle, and grant 1 wish.  The wizard is located near Waterdeep.  
+-The party decided to go to confront the wizard and went to the docks to book passage to Waterdeep, but found that a massive amount of deep sea creatures were being pushed out from the depths into fisherman nets.  The party investigated the strange occurrence bringing the fish up from the depths by joining the crew of a fishing boat.  While fishing, 2 large ~16-20 foot hunter sharks attacked the party and one was killed by the fishermen, and promptly pulled underwater by a massive force.  The other shark fled that force. The party determined that whatever could eat that giant shark was massive indeed.  The fishing boat captain worried that whatever it was could cause major carnage in Neverwinter.  
+-Upon returning we stopped at the Tradehouse where we traded 350 garnets for the Amulet of Health.  The vendor, Volen, also had a Belt of Hill Giant Strength.  Balazar said if a belt of Storm, Cloud or Fire Giant Strength came in his possession let us know first.  He promised with the offering of a copper bowl with inlaid lapis luzi.  Additionally, Nepe insisted on buying Balazar some pants.  He received compliments on the stylish Navy Blue pants with gold slashes and crowds stopped giving him an abnormally wide berth.
+-The party reported the incident with the sea monster to Varis, who is going to put the city guard on alert and prepare plans for evacuation.
+-The party then decided to get teleported to Phandalin, then transit by land to Waterdeep in effort to find the wizard and set the genie free.  
+3 story lines:
+1. Free the genie, get a floating castle (A way to assault the Pirates Island?) A wish (for Nepe to forget the Brown note song?)
+2. Free the pirates from their floating island
+3. Save the town from the giant sea beast
 ```
 </details>
 
