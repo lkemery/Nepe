@@ -200,7 +200,7 @@ Varis accidentally killed Lissett and Allessaria with a fireball.
 ```
 </details>
 
-## Interlude 
+### Interlude 
 
 <details>
 <summary>Friendly Fire</summary>
@@ -245,7 +245,8 @@ Along a crowded street headed to the waterfront, two dock workers shoot the bree
 
 </details>
 
-<a id="eof"> ### June 15 </a>
+<a id="eof">  </a>
+### June 15
 <details>
 <summary> Friendly Fire </summary>
 
