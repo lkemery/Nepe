@@ -247,7 +247,7 @@ Along a crowded street headed to the waterfront, two dock workers shoot the bree
 
 <a id="eof"> ### June 15 </a>
 <details>
-<summary></summary>
+<summary> Friendly Fire </summary>
 
 ```
 -The party visited the new concert hall, played some game of chance and Nepe played music for the concert hall where she played 3 songs and won wide acclaim for her "Brown Note" song.
